@@ -1,0 +1,16 @@
+{
+  "name": "download-biliv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bilibili-api-ts": "^11.11.2",
+    "bilibili-save-nodejs": "^1.0.0"
+  }
+}
